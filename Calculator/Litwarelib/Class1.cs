@@ -56,6 +56,7 @@ namespace Litwarelib
         }
         public void Displaydetails()
         {
+            Console.WriteLine();
             Console.WriteLine("Employee details:");
             Console.WriteLine();
             Console.WriteLine("Employee name: {0}", EmpName);
